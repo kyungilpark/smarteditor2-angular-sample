@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'smarteditor2-angular-sample';
+  editorConfig = {
+    id: "se2ir"
+  };
 }
